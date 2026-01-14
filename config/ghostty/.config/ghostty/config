@@ -1,0 +1,16 @@
+# style
+theme = GitHub Dark High Contrast 
+
+font-family = SauceCodePro NFM Light
+font-size = 12
+
+background-opacity = 0.90
+background-blur-radius = 40
+
+macos-titlebar-style = hidden
+macos-icon = custom
+macos-custom-icon = ~/.config/ghostty/icons/ghostty-café-espresso.icns
+
+window-padding-x = 0
+window-padding-y = 0
+window-padding-balance = true

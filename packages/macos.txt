@@ -1,0 +1,4 @@
+ghostty
+font-jetbrains-mono-nerd-font
+font-sauce-code-pro-nerd-font
+amethyst

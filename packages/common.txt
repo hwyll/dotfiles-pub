@@ -1,0 +1,10 @@
+stow
+tmux
+neovim
+git
+zsh
+ripgrep
+zoxide
+fzf
+fd
+tlrc
